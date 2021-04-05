@@ -14,3 +14,14 @@ This web app displays all the entries on the home page, preventing the hassle of
 •	Creating exercise log- when the ‘create exercise log’ button is clicked, the entry is saved to the database.
 
 •	Facility to create users, create exercise logs, edit and delete entries. 
+
+## Team
+- Ragghav Renganathan
+
+- Pradish Kapur
+
+- Pranav Jain
+
+- Prithvi Sunilkumar
+
+
