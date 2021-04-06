@@ -16,7 +16,7 @@ This web app displays all the entries on the home page, preventing the hassle of
 •	Facility to create users, create exercise logs, edit and delete entries. 
 
 ## Team
-- Ragghav Renganathan
+- Ragghav Ramakrishnan
 
 - Pradish Kapur
 
